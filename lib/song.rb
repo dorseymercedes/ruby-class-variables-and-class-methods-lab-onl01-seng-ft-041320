@@ -1,4 +1,3 @@
-class Song 
   class Song
     @@count = 0
     @@artists = []
